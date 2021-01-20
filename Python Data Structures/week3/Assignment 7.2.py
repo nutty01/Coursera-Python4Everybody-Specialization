@@ -1,10 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 10 00:49:55 2020
 
-@author: snsenel
-"""
-
+## Use the file name mbox-short.txt as the file name
 fname = input("Enter file name: ")
 fh = open(fname)
 count=0
