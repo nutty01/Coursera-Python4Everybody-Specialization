@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 11 02:05:20 2020
-
-@author: snsenel
-"""
-
 name=input('Enter file:')
 handle=open(name)
 
