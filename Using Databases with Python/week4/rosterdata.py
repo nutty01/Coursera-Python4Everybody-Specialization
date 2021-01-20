@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 15 07:08:38 2020
 
-@author: snsenel
-"""
 
 import json
 import sqlite3
